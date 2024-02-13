@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121390676895",
+    "project_id": "shopping-zone-36ab7",
+    "storage_bucket": "shopping-zone-36ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121390676895:android:c06ece1c34826bd345dbaa",
+        "android_client_info": {
+          "package_name": "com.ahmad.storemanager.storemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpCVZSUCLljqYdJzkdMeIOQAdHZCksHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
